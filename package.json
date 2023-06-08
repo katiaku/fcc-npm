@@ -3,6 +3,7 @@
 	"author": "Ekaterina K.",
 	"description": "A project that helps us become better devs",
 	"keywords": [ "freecodecamp", "backend", "npm" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
